@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -Command "cd 'c:\Users\Admin\Desktop\Visualization project'; npm install; npm run dev"
